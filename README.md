@@ -163,3 +163,12 @@ Thank you so much for exploring and using this curated **Awesome Business Intell
   <b>Made with ❤️ for data analysts, analytics leaders, and open-source BI advocates. 📊 📈 ✨</b>
 </p>
 
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Business-Intelligence-Visualization&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Business-Intelligence-Visualization_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Business-Intelligence-Visualization_growth.svg">
+  </picture>
+</a>

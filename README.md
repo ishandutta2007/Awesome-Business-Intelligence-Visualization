@@ -1,5 +1,3 @@
-# Awesome-Business-Intelligence-Visualization
-
 # Awesome-Business-Intelligence-Visualization 📊 📈
 
 <p align="center">

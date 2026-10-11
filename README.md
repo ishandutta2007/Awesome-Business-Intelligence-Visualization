@@ -121,7 +121,7 @@ Welcome to the definitive curated directory of **business intelligence and data 
 
 ---
 
-## 🛠️ How to Contribute
+## 🛠️ How to Contribute 🤝
 
 Contributions are welcome! Follow these steps to submit new BI platforms, semantic layers, or open-source visualization software:
 
@@ -132,32 +132,34 @@ Contributions are welcome! Follow these steps to submit new BI platforms, semant
 
 ---
 
-## 📊 Star History
+## ⚠️ Disclaimer 📋
+
+- ℹ️ This is a **community-curated** list — not exhaustive and not an official financial endorsement.
+- 🔷 **Enterprise Dominance:** Power BI leads G2's 2026 BI rankings with a score of 9.2/10, followed by Tableau (8.9/10), Domo (8.5/10), and Qlik Sense (8.4/10).
+- 💰 **Pricing Efficiency:** Power BI Pro at $14/user/month represents the lowest entry tier among tier-1 platforms, whereas Tableau Creator starts at $75/user/month and Looker requires a minimum $36,000/year enterprise commitment.
+- 🏗️ **Total Cost of Ownership (TCO):** Open-source frameworks like Apache Superset, Metabase, and Grafana have zero software license fees, but carry infrastructure, maintenance, tuning, and engineering headcount costs. Balance self-hosting overhead against SaaS subscription costs when designing your data stack.
+- 🛡️ **Proof-of-Concept:** Always evaluate query pushdown speed, data freshness, semantic modeling flexibility, row-level security (RLS), and single sign-on (SSO) before deploying to production. 📊
+
+---
+
+## 📊 Star History 📈
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Business-Intelligence-Visualization&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Business-Intelligence-Visualization&type=date&legend=top-left)
 
 ---
 
-## 🤝 Support & Sponsorship
+## 🤝 Support & Sponsorship 💖
 
-If you find this business intelligence and visualization repository useful, please consider supporting the project:
+Thank you so much for exploring and using this curated **Awesome Business Intelligence & Visualization** repository! 🙏✨ If this guide helps you navigate BI tools, semantic layers, and data visualization architectures, please consider supporting the project:
 
-- ⭐ **Star** this repository to increase visibility!
-- 🔀 **Fork** and share with fellow data analysts, analytics engineers, and open-source advocates.
-- ☕ **Sponsor & Buy Me a Coffee**: Support ongoing open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
-
----
-
-## ⚠️ Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an official financial endorsement. ℹ️
-- **Enterprise Dominance:** Power BI leads G2's 2026 BI rankings with a score of 9.2/10, followed by Tableau (8.9/10), Domo (8.5/10), and Qlik Sense (8.4/10).
-- **Pricing Efficiency:** Power BI Pro at $14/user/month represents the lowest entry tier among tier-1 platforms, whereas Tableau Creator starts at $75/user/month and Looker requires a minimum $36,000/year enterprise commitment.
-- **Total Cost of Ownership (TCO):** Open-source frameworks like Apache Superset, Metabase, and Grafana have zero software license fees, but carry infrastructure, maintenance, tuning, and engineering headcount costs. Balance self-hosting overhead against SaaS subscription costs when designing your data stack.
-- **Proof-of-Concept:** Always evaluate query pushdown speed, data freshness, semantic modeling flexibility, row-level security (RLS), and single sign-on (SSO) before deploying to production. 📊
+- ⭐ **Star** this repository to increase visibility and help others discover it! 🌟
+- 🔀 **Fork** and share with fellow data analysts, analytics engineers, and open-source advocates. 🚀
+- 📢 **Share** with your teammates and professional networks on LinkedIn and Twitter/X. 💬
+- ☕ **Buy Me a Coffee & Sponsor**: Support ongoing open-source curation and research via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007). ☕❤️
 
 ---
 
 <p align="center">
-  <b>Made with ❤️ for data analysts, analytics leaders, and open-source BI advocates.</b>
+  <b>Made with ❤️ for data analysts, analytics leaders, and open-source BI advocates. 📊 📈 ✨</b>
 </p>
+
